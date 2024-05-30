@@ -2,7 +2,7 @@ class Mkcd < Formula
     desc "Command-line utility to create directories and change into them"
     homepage "https://github.com/tirupats/mkcd"
     url "https://github.com/tirupats/mkcd/blob/master/archive/mkcd-1.0.0.tar.gz"
-    sha256 "be98e612dfebe54e3a3e949f96e79976eaf1a682cc1da355329f06ee07b8a4d1"
+    sha256 "04b004aa3edc0f05416fdab4f9c48fd6a00bbde7246fa8d13b30e6b1dbbb15f2"
     version "1.0.0"
   
     def install
